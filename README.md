@@ -1,1 +1,1 @@
-# hobbies-colection
+# hobbies-collection
